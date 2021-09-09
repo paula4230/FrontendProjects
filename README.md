@@ -25,6 +25,6 @@
     <br>
     A <a href="BankingApp/BankingApp_Login.html">banking application</a> that allows the user to deposit, withdraw, and send money between accounts
     <br>
-    Final Frontend Project: Users can fetch <a href= "FrontendProjects/API-SM.html">APIs</a> from Youtube(videos), Merriam-Webster(dictionary meaning), and CORE(links to scientific journals).
+    Final Frontend Project: Users can fetch <a href= "API-SM.html">APIs</a> from Youtube(videos), Merriam-Webster(dictionary meaning), and CORE(links to scientific journals).
   
  </html>
